@@ -160,3 +160,18 @@ To the maximum extent permitted by applicable law, no LDC Member shall be (or sh
 - (git x) such transaction has been Confirmed.
 
 (r ) **"Guild Kick"**  means removal from the membership via vote of LDC members to destroy the LDC Membership token through a burn function or other process as described in the Handbook.  Unless specifically provided otherwise a member subject to a Guild Kick shall not be entitle to any distribution or return of capital, funds, retains, etc.
+
+<!--
+{ 
+  "@context": "https://constitutions.metagov.org",
+  "type": "constitution",
+  "title": "Constitution of LexDAO Club",
+  "name": "LexDAO Club",
+  "daoURI": "https://www.lexdao.coop/",
+  "dateCreated": "<2020-07-24>",
+  "dateModified": "",
+  "previousConstitutionURI": "",
+  "inForce": "True",
+  "archived": "<2021-10-30>"
+}
+-->
